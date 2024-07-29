@@ -1,0 +1,32 @@
+{
+  "name": "blockchain-talent-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hardhat.config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.4.5",
+    "truffle": "^5.11.5"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NexusCoded/TalentScroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NexusCoded/TalentScroll/issues"
+  },
+  "homepage": "https://github.com/NexusCoded/TalentScroll#readme"
+}
